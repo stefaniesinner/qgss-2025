@@ -1,7 +1,7 @@
 ## :globe_with_meridians: Qiskit Global Summer School 2025 - Solutions
-This repository contains **my personal solutions** for the labs of the [Qiskit Global Summer School 2025](https://github.com/qiskit-community/qgss-2025).  
+This repository contains **my personal solutions** for the labs of the [Qiskit Global Summer School 2025](https://www.ibm.com/quantum/blog/qiskit-summer-school-2025).  
 
-The original lab materials (notebooks, exercises, data) are provided by the Qiskit community under the Apache 2.0 license.
+The original [lab materials](https://github.com/qiskit-community/qgss-2025) (notebooks, exercises, data) are provided by the Qiskit community under the Apache 2.0 license.
 
 ## :books: Structure and Topics
 ```
